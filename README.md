@@ -43,7 +43,8 @@ Curious  about Artificial Intelligence, Machine Learning, or Deep Learning?  Wha
 
 
 
-
+## Aim 
+Make this repo a unified source for Deep learning
 
 ## Contributing
 
