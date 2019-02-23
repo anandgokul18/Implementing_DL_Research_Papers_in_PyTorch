@@ -11,7 +11,7 @@
 3. Dropout
 4. Label Smoothing
 5. Batch Normalization
-6. Layer Normalization (Breif)
+6. Layer Normalization (Brief)
 
 ## [Advance CNN Architectures](Architectures in CNN.ipynb)
 
