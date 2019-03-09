@@ -1,0 +1,6 @@
+1. In app.py, replace the Class with our class (here: NN)
+2. Replace checkpoint with the same filename which we downloaded
+3. On line 62, change model to same name (here: NN)
+4. Run the app.py
+5. On browser, go to /loadmodel and see if 'Loading done' is shown
+6. Then go to '/index' to get a screen to draw any digit
